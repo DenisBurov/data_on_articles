@@ -1,6 +1,6 @@
 # Research Dataset Collection
 
-This repository contains datasets from multiple published papers since November 2023. The data is provided to support reproducibility and enable further research building on our published work.
+This repository contains datasets from multiple published papers since November 2023. The data is provided to support reproducibility and enable further research building on our published work as well as complimenting the EU Open Science doctrine. 
 
 ## Dataset Contents
 
